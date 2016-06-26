@@ -38,6 +38,22 @@ $this->title = '2016河北高考志愿填报指南';
         </div>
         <div class="row">
             <div class="col-lg-12">
+                <!-- JiaThis Button BEGIN -->
+                <div class="jiathis_style_32x32">
+                    <a class="jiathis_button_qzone"></a>
+                    <a class="jiathis_button_tsina"></a>
+                    <a class="jiathis_button_tqq"></a>
+                    <a class="jiathis_button_weixin"></a>
+                    <a class="jiathis_button_renren"></a>
+                    <a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+                    <a class="jiathis_counter_style"></a>
+                </div>
+                <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+                <!-- JiaThis Button END -->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
                 如有意见或建议，请点击<a href="http://www.liyangweb.com/chat/273.html" target="_blank">http://www.liyangweb.com/chat/273.html</a>
             </div>
         </div>
