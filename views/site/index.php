@@ -36,6 +36,11 @@ $this->title = '2016河北高考志愿填报指南';
                 </div>
             </div>
         </div>
+        <div class="row">
+            <div class="col-lg-12">
+                如有意见或建议，请点击<a href="http://www.liyangweb.com/chat/273.html" target="_blank">http://www.liyangweb.com/chat/273.html</a>
+            </div>
+        </div>
 
     </div>
 </div>
