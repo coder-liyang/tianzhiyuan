@@ -9,7 +9,7 @@ $this->title = '2016河北高考志愿填报指南';
     <div class="jumbotron">
         <h1>2016河北高考志愿填报指南</h1>
 
-        <p class="lead">数据根据2015及2015的全省高考成绩推算得出，仅供参考</p>
+        <p class="lead">数据根据2016及2015的全省高考成绩推算得出，仅供参考</p>
 
         <!--<p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>-->
     </div>
